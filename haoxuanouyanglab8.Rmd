@@ -1,0 +1,10 @@
+---
+title: "lab 8"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is lab 8 for Haoxuan Ouyang
